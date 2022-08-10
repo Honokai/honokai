@@ -18,6 +18,6 @@ const person = {
 }
 ```
 <p>
-  ![Looking for a bug late at night](https://github.com/Honokai/honokai/blob/main/f0f0d932d6e39c7af5aa305cbd8da735.gif?raw=true) Looking for a bug late at night
+  <img width="460" height="300" src="https://github.com/Honokai/honokai/blob/main/f0f0d932d6e39c7af5aa305cbd8da735.gif?raw=true"> Looking for a bug late at night
 </p>
 
