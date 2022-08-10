@@ -17,6 +17,7 @@ const person = {
     'Create my own game',
     'Learn 3d modeling'
   ],
-  programmingLanguages: ['php', 'javascript', 'java', ...moreToCome]
+  programmingLanguages: ['php', 'javascript', 'java'],
+  frameworks: ['Laravel', 'NodeJs', 'React', 'JSP', 'React Native']
 }
 ```
