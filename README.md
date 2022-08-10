@@ -1,6 +1,6 @@
-### Hello, welcome to my sweet little home.
-
 ![alt text](https://github.com/Honokai/honokai/blob/main/f0f0d932d6e39c7af5aa305cbd8da735.gif?raw=true)
+
+### Hello, welcome to my sweet little home.
 
 ```javascript
 const person = {
