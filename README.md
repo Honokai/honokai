@@ -2,6 +2,8 @@
 
 ## Bem-vindo ao meu perfil, fique a vontade para dar uma olhada.
 
+
+
 ```javascript
 const person = {
   firstName: 'Emerson',
@@ -9,6 +11,12 @@ const person = {
   hobbies: [
     'Programming',
     'Custom mechanical keyboards'
-  ]
+  ],
+  studying: ['ASP .NET', 'React', 'React Native'],
+  wantsTo: [
+    'Create my own game',
+    'Learn 3d modeling'
+  ],
+  programmingLanguages: ['php', 'javascript', 'java', ...moreToCome]
 }
 ```
