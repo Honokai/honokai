@@ -4,8 +4,11 @@
 
 ```javascript
 const person = {
-  firstName: 'Emerson'
+  firstName: 'Emerson',
   lastName: 'Fernandes',
-  
+  hobbies: [
+    'Programming',
+    'Custom mechanical keyboards'
+  ]
 }
 ```
